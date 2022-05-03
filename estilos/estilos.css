@@ -1,22 +1,33 @@
-* {
+body {
     font-size: 20px;
-    color: blueviolet;
+    color: black;
     text-align: left;
     font-family: 'Lucida Sans';
+    background-color:#6930c3;
 }
-a, p {
-    text-align: center;
-    color: blue;
-    background-color: black;
+#encabezado {
+    background-color:#56cfe1;
+    padding: 5px 50px;
+
 }
 #logo {
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 60px;
+    margin-right: 25px;
 
+}
+#encabezado h1{
+    display: inline-block;
+    
+}
+
+#redes_sociales{
+    float: right;
 }
 .patines {
     display: inline-block;
     border-style: solid;
     border-radius: 10px;
     margin: 10px;
+    border-color: blue;
 }
