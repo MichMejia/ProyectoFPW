@@ -1,41 +1,102 @@
-body {
-    font-size: 20px;
-    color: black;
-    text-align: left;
-    font-family: 'Lucida Sans';
-    background-color:#6930c3;
-    margin: 0%;
-}
-#encabezado {
-    background-color:#56cfe1;
-    padding: 5px 50px;
+    body {
+        font-size: 20px;
+        color: black;
+        text-align: left;
+        font-family: 'Lucida Sans';
+        background-color:#9364ff;
+        margin: 0%;
+    }
+    #encabezado {
+        background-color:#7074ff;
+        padding: 5px 50px;
 
-}
-#logo {
-    width: 60px;
-    height: 60px;
-    margin-right: 25px;
+    }
+    #redes_sociales {
+        float: right;
+        padding-top: 15px;
+    }
 
-}
-#encabezado h1{
-    display: inline-block;
+    @media screen and (max-width: 695px) {
+        #encabezado {
+          padding: 5px 5px;
+        }
+      }
+      @media screen and (max-width: 566px) {
+        #encabezado {
+          text-align: center;
+        }
+        #redes_sociales {
+          display: none;
+        }
+        #redes_sociales_extra {
+          display: block;
+        }
+      }
+  
+    #redes_sociales img, #redes_sociales_extra img {
+        width: 40px;
+        transition: 0.5s;
+    }
     
-}
+    #redes_sociales img:hover, #redes_socailes_extra img:hover {
+        filter: invert(100%);
+        transition: 0.25s;
+    }
+    
+    #redes_sociales-extra a {
+        text-decoration: none;
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+    
+    div#redes_sociales a {
+        margin-left: 25px;
+    }
+    
+    #logo {
+        width: 60px;
+        height: 60px;
+        margin-right: 25px;
 
-#redes_sociales{
-    float: right;
-}
-.patines {
-    display: inline-block;
-    border-style: solid;
-    border-radius: 10px;
-    margin: 10px;
-    border-color: blue;
-}
-div.patines img {
-    width: 315px;
-    height: 300px;
-}
-#contenido{
-    padding: 1em 150px;
-}
+    }
+    #encabezado h1{
+        display: inline-block;
+        
+    }
+    #redes_sociales{
+        float: right
+        ;
+    }
+    #redes_sociales {
+        float: right;
+        padding-top: 26px;
+
+    }
+    div.patines h3{
+        text-align: center;
+        padding: 0 15px;
+
+    }
+    .patines {
+        display: inline-block;
+        border-style: solid;
+        border-radius: 10px;
+        margin: 10px;
+        border-color: #7074ff;
+    }
+    div.patines img {
+        width: 315px;
+        height: 300px;
+    }
+    #contenido{
+        padding: 1em 150px;
+    }
+    #footer{
+        text-align: center;
+        padding: 20px 10%;
+        background-color:#7074ff;
+        color: white;
+        border-top-style: solid;
+        border-top-color:#7074ff;
+        border-top-width: 4px;
+    }
