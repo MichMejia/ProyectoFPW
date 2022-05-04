@@ -4,6 +4,7 @@ body {
     text-align: left;
     font-family: 'Lucida Sans';
     background-color:#6930c3;
+    margin: 0%;
 }
 #encabezado {
     background-color:#56cfe1;
@@ -30,4 +31,8 @@ body {
     border-radius: 10px;
     margin: 10px;
     border-color: blue;
+}
+div.patines img {
+    width: 315px;
+    height: 300px;
 }
