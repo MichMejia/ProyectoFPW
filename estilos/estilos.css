@@ -5,17 +5,24 @@
         font-family: 'Lucida Sans';
         background-color:#9364ff;
         margin: 0%;
+
     }
     #encabezado {
         background-color:#7074ff;
         padding: 5px 50px;
 
     }
+    #redes-sociales-extra {
+        display: none;
+      }
     #redes_sociales {
         float: right;
         padding-top: 15px;
     }
+    div#encabezado a {
+        text-decoration: none;
 
+    }
     @media screen and (max-width: 695px) {
         #encabezado {
           padding: 5px 5px;
@@ -32,7 +39,7 @@
           display: block;
         }
       }
-  
+
     #redes_sociales img, #redes_sociales_extra img {
         width: 40px;
         transition: 0.5s;
@@ -88,8 +95,12 @@
         width: 315px;
         height: 300px;
     }
-    #contenido{
+    #contenido {
         padding: 1em 150px;
+    }
+    #redes_sociales_extras a {
+        text-decoration: none;
+
     }
     #footer{
         text-align: center;
@@ -100,3 +111,4 @@
         border-top-color:#7074ff;
         border-top-width: 4px;
     }
+    
