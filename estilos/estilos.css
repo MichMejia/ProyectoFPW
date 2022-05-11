@@ -45,7 +45,7 @@
         transition: 0.5s;
     }
     
-    #redes_sociales img:hover, #redes_socailes_extra img:hover {
+    #redes_sociales img:hover, #redes_sociales_extra img:hover {
         filter: invert(100%);
         transition: 0.25s;
     }
@@ -98,7 +98,7 @@
     #contenido {
         padding: 1em 150px;
     }
-    #redes_sociales_extras a {
+     div#redes_sociales_extra a {
         text-decoration: none;
 
     }
