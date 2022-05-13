@@ -1,28 +1,140 @@
     body {
         font-size: 20px;
-        color: black;
+        color: #645284;
         text-align: left;
-        font-family: 'Lucida Sans';
-        background-color:#9364ff;
+        font-family: 'Arial Black';
+        background-color:#645284;
         margin: 0%;
 
     }
     #encabezado {
-        background-color:#7074ff;
+        background-color:rgb(255, 255, 255);
         padding: 5px 50px;
+        
+    }
+    
+    div#encabezado a {
+        text-decoration: none;
+        margin-left: 50px;
 
     }
+
+    #logo {
+        width: 60px;
+        height: 60px;
+        margin-right: 25px;
+
+    }
+
+    #encabezado h1 {
+        display: inline-block;
+        
+        
+    }
+
+    div#redes_sociales a {
+        margin-left: 25px;
+    }
+
+    #contenido {
+        padding: 1em 150px;
+        border-top-style: solid;
+        border-top-color:#5f476f;
+        border-top-width: 4px;
+
+    }
+
+    h2 {
+        text-align: center;
+        font-size: 2rem;
+        padding-top: 50px;
+        color: #ffffff;
+
+    }
+  #slider-frame {
+      width: 1005px;
+      height: auto;
+      margin: 50px auto 0;
+      overflow: hidden;
+      animation: slide 15s infinite alternate ease-in-out;
+
+   }
+
+ 
+
+    #slider-frame ul {
+        display: flex;
+        padding: 0;
+        width: 400%;
+        animation: slider 20s infinite alternate ease-in-out;
+
+    }
+
+    #slider-frame li {
+        width: 100%;
+        list-style: none;
+
+    }
+
+    #slider-frame img {
+        width: 100%;
+        height: auto;
+
+    }
+
+    @keyframes slider {
+        0% {margin-left: 0;}
+        20% {margin-left: 0;}
+        
+        25% {margin-left: -100%;}
+        45% {margin-left: -100%;}
+        
+        50% {margin-left: -200%;}
+        70% {margin-left: -200%;}
+        
+        75% {margin-left: -300%;}
+        100% {margin-left: -300%;}
+        
+    }
+
+
+    div.patines {
+        display: inline-block;
+        width: 300px;
+        border-style: solid;
+        border-radius: 10px;
+        margin: 10px;
+        border-width: 5px;
+        border-color: #5f476f;
+        background-color: #ffffff;
+    }
+
+    div.patines#seleccionado, div.patines:hover {
+        border-color: #ffffff;
+        color: #000000;
+        transition: 0.5ms;
+
+    }
+
+
+    div.patines img {
+        width: 300px;
+        height: 250px;
+    }
+
+    div.patines h3{
+        text-align: center;
+        padding: 0 15px;
+
+    }
+
     #redes-sociales-extra {
         display: none;
       }
     #redes_sociales {
         float: right;
         padding-top: 15px;
-    }
-    div#encabezado a {
-        text-decoration: none;
-
-    }
+      }
     @media screen and (max-width: 695px) {
         #encabezado {
           padding: 5px 5px;
@@ -39,58 +151,7 @@
           display: block;
         }
       }
-        h2 {
-            text-align: center;
-            font-size: 2rem;
-            padding-top: 50px;
-
-        }
-      #slider-frame {
-          width: 996px;
-          height: auto;
-          margin: 50px auto 0;
-          overflow: hidden;
-          animation: slide 15s infinite alternate ease-in-out;
-
-       }
-
-     
-    
-    #slider-frame ul {
-        display: flex;
-        padding: 0;
-        width: 400%;
-        animation: slider 20s infinite alternate ease-in-out;
-
-    }
-    
-    #slider-frame li {
-        width: 100%;
-        list-style: none;
-
-    }
-    
-    #slider-frame img {
-        width: 100%;
-        height: auto;
-
-    }
-    
-    @keyframes slider {
-        0% {margin-left: 0;}
-        20% {margin-left: 0;}
         
-        25% {margin-left: -100%;}
-        45% {margin-left: -100%;}
-        
-        50% {margin-left: -200%;}
-        70% {margin-left: -200%;}
-        
-        75% {margin-left: -300%;}
-        100% {margin-left: -300%;}
-        
-    }
-
     #redes_sociales img, #redes_sociales_extra img {
         width: 40px;
         transition: 0.5s;
@@ -101,65 +162,19 @@
         transition: 0.25s;
     }
     
-    #redes_sociales-extra a {
+    div#redes_sociales_extra a {
         text-decoration: none;
         margin-right: 10px;
         margin-left: 10px;
     }
-    
-    div#redes_sociales a {
-        margin-left: 25px;
-    }
-    
-    #logo {
-        width: 60px;
-        height: 60px;
-        margin-right: 25px;
 
-    }
-    #encabezado h1{
-        display: inline-block;
-        
-    }
-    #redes_sociales{
-        float: right
-        ;
-    }
-    #redes_sociales {
-        float: right;
-        padding-top: 26px;
-
-    }
-    div.patines h3{
-        text-align: center;
-        padding: 0 15px;
-
-    }
-    .patines {
-        display: inline-block;
-        border-style: solid;
-        border-radius: 10px;
-        margin: 10px;
-        border-color: #7074ff;
-    }
-    div.patines img {
-        width: 315px;
-        height: 300px;
-    }
-    #contenido {
-        padding: 1em 150px;
-    }
-     div#redes_sociales_extra a {
-        text-decoration: none;
-
-    }
     #footer{
         text-align: center;
         padding: 20px 10%;
-        background-color:#7074ff;
-        color: white;
+        background-color:#ffffff;
+        color: rgb(0, 0, 0);
         border-top-style: solid;
-        border-top-color:#7074ff;
+        border-top-color:#5f476f;
         border-top-width: 4px;
     }
     
