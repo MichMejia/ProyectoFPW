@@ -30,7 +30,7 @@
           padding: 5px 5px;
         }
       }
-      @media screen and (max-width: 566px) {
+      @media screen and (max-width: 635px) {
         #encabezado {
           text-align: center;
         }
