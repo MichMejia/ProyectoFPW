@@ -121,9 +121,9 @@
       }
    
         
-    .redes_sociales img, #redes_sociales_extra img {
+    #redes_sociales img, #redes_sociales_extra img {
         width: 40px;
-        transition: 0.5s;
+        transition: 0.2s;
     }
     
     #redes_sociales img:hover, #redes_sociales_extra img:hover {
