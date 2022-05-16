@@ -17,8 +17,6 @@
         
     }
 
-   
-    
     div#encabezado a {
         text-decoration: none;
         margin-left: 50px;
@@ -121,15 +119,25 @@
       }
    
         
-    #redes_sociales img, #redes_sociales_extra img {
+    #redes_sociales img { 
         width: 40px;
         transition: 0.2s;
     }
+    #redes_sociales img:hover { 
+            filter: invert(100%);
+            transition: 0.25s;
+        }
     
-    #redes_sociales img:hover, #redes_sociales_extra img:hover {
+    #redes_sociales_extra img {    
+        width: 40px;
+        transition: 0.2s;
+    }
+    #redes_sociales_extra img:hover {
         filter: invert(100%);
         transition: 0.25s;
+
     }
+  
     
     div#redes_sociales_extra a {
         text-decoration: none;
