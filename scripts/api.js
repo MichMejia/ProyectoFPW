@@ -8,7 +8,7 @@ fetch (url) . then (function(respuesta) {
 }).then(function(datos) {
   console.log(datos);
   for(let i = 0; i < datos.length; i++) {
-    contenedor.innerHTML +=  "<div class='patines'><img src='"  +  uri  +  datos [ i ] [ "imagenes" ]  +  "'><h3>"  +  datos [ i ] [ "Tipo" ]  +  " </h3></div>" ;
+    contenedor.innerHTML +=  "<div class='patines'><img src='"  +  uri  +  datos [ i ] [ "imagen" ]  +  "'><h3>"  +  datos [ i ] [ "Tipo" ]  +  " </h3></div>" ;
   }
 }).catch(function(error) {
   console.log(error);
