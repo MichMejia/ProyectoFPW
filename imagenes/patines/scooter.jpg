@@ -1,0 +1,855 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+		<meta charset="UTF-8" />
+
+			<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+	
+	<link rel="profile" href="//gmpg.org/xfn/11" />
+				<link rel="shortcut icon" href="https://giroskate.com/wp-content/uploads/2020/05/10570540_819742061382151_5246282341589500163_n.png" />
+						<script>document.documentElement.className = document.documentElement.className + ' yes-js js_active js'</script>
+			<title>Scooters | Giroskate</title>
+<script type='text/javascript'>console.log('PixelYourSite Free version 7.1.11');</script>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='preconnect' href='https://fonts.gstatic.com' crossorigin />
+<link rel="alternate" type="application/rss+xml" title="Giroskate &raquo; Feed" href="https://giroskate.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Giroskate &raquo; Feed de los comentarios" href="https://giroskate.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Giroskate &raquo; Scooters Categoría Feed" href="https://giroskate.com/product-category/scooter/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/giroskate.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.9"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://giroskate.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-vendors-style-css'  href='https://giroskate.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=2.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='https://giroskate.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=2.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://giroskate.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://giroskate.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.2.2' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='js_composer_front-css'  href='https://giroskate.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ts-shortcode-css'  href='https://giroskate.com/wp-content/plugins/themesky/css/shortcode.css?ver=1.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='https://giroskate.com/wp-content/plugins/themesky/css/owl.carousel.css?ver=1.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://giroskate.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=4.3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://giroskate.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=4.3.6' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://giroskate.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=4.3.6' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='woocommerce-mercadopago-global-css-css'  href='https://giroskate.com/wp-content/plugins/woocommerce-mercadopago/includes/../assets/css/global.min.css?ver=5.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-colorbox-css'  href='https://giroskate.com/wp-content/plugins/yith-woocommerce-compare/assets/css/colorbox.css?ver=5.5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce_prettyPhoto_css-css'  href='//giroskate.com/wp-content/plugins/woocommerce/assets/css/prettyPhoto.css?ver=5.5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-selectBox-css'  href='https://giroskate.com/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css?ver=1.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='qlwapp-css'  href='https://giroskate.com/wp-content/plugins/wp-whatsapp-chat/assets/frontend/css/qlwapp.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Montserrat:500,700,300&#038;display=swap&#038;ver=1637095733" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:500,700,300&#038;display=swap&#038;ver=1637095733" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:500,700,300&#038;display=swap&#038;ver=1637095733" /></noscript><link rel='stylesheet' id='font-awesome-css'  href='https://giroskate.com/wp-content/themes/zamona/css/font-awesome.css?ver=1.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-pe-icon-css'  href='https://giroskate.com/wp-content/themes/zamona/css/pe-icon-7-stroke.min.css?ver=1.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='zamona-reset-css'  href='https://giroskate.com/wp-content/themes/zamona/css/reset.css?ver=1.1.3' type='text/css' media='all' />
+<style id='zamona-reset-inline-css' type='text/css'>
+.products.list .short-description.list{display: inline-block !important;}.products.grid .short-description.grid{display: inline-block !important;}
+</style>
+<link rel='stylesheet' id='zamona-style-css'  href='https://giroskate.com/wp-content/themes/zamona/style.css?ver=1.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='zamona-responsive-css'  href='https://giroskate.com/wp-content/themes/zamona/css/responsive.css?ver=1.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyphoto-css'  href='https://giroskate.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/css/prettyPhoto.min.css?ver=6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='select2-css'  href='https://giroskate.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=4.3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='zamona-dynamic-css-css'  href='https://giroskate.com/wp-content/uploads/zamona.css?ver=1637095733' type='text/css' media='all' />
+<script type="text/template" id="tmpl-variation-template">
+	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
+	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
+	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
+</script>
+<script type="text/template" id="tmpl-unavailable-variation-template">
+	<p>Lo sentimos, este producto no está disponible. Por favor elige otra combinación.</p>
+</script>
+<script type='text/javascript' src='https://giroskate.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://giroskate.com/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.0' id='tp-tools-js'></script>
+<script type='text/javascript' src='https://giroskate.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.2.2' id='revmin-js'></script>
+<script type='text/javascript' src='https://giroskate.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Ver carrito","cart_url":"https:\/\/giroskate.com\/carrito\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://giroskate.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=4.3.6' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='https://giroskate.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4' id='js-cookie-js'></script>
+<script type='text/javascript' src='https://giroskate.com/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=6.1' id='vc_woocommerce-add-to-cart-js-js'></script>
+<script type='text/javascript' src='https://giroskate.com/wp-content/plugins/pixelyoursite/dist/scripts/jquery.bind-first-0.2.3.min.js?ver=5.5.9' id='jquery-bind-first-js'></script>
+<script type='text/javascript' id='pys-js-extra'>
+/* <![CDATA[ */
+var pysOptions = {"staticEvents":{"facebook":{"PageView":[{"params":[],"delay":0,"ids":[]}],"GeneralEvent":[{"params":{"post_type":"product_cat","post_id":"154","content_name":"Scooters"},"delay":0,"ids":[]}],"ViewCategory":[{"params":{"content_type":"product","content_category":"","content_name":"Scooters","content_ids":"[\"6839\",\"3458\"]"},"delay":0,"ids":[]}]}},"dynamicEventsParams":[],"dynamicEventsTriggers":[],"facebook":{"pixelIds":["254169923142893"],"advancedMatching":[],"removeMetadata":false,"contentParams":{"post_type":"product_cat","post_id":154,"content_name":"Scooters"},"commentEventEnabled":true,"wooVariableAsSimple":false,"downloadEnabled":true,"formEventEnabled":true,"serverApiEnabled":false,"wooCRSendFromServer":false},"debug":"","siteUrl":"https:\/\/giroskate.com","ajaxUrl":"https:\/\/giroskate.com\/wp-admin\/admin-ajax.php","commonEventParams":{"domain":"giroskate.com","user_roles":"guest","plugin":"PixelYourSite"},"commentEventEnabled":"1","downloadEventEnabled":"1","downloadExtensions":["","doc","exe","js","pdf","ppt","tgz","zip","xls"],"formEventEnabled":"1","gdpr":{"ajax_enabled":false,"all_disabled_by_api":false,"facebook_disabled_by_api":false,"analytics_disabled_by_api":false,"google_ads_disabled_by_api":false,"pinterest_disabled_by_api":false,"bing_disabled_by_api":false,"facebook_prior_consent_enabled":true,"analytics_prior_consent_enabled":true,"google_ads_prior_consent_enabled":null,"pinterest_prior_consent_enabled":true,"bing_prior_consent_enabled":true,"cookiebot_integration_enabled":false,"cookiebot_facebook_consent_category":"marketing","cookiebot_analytics_consent_category":"statistics","cookiebot_google_ads_consent_category":null,"cookiebot_pinterest_consent_category":"marketing","cookiebot_bing_consent_category":"marketing","ginger_integration_enabled":false,"cookie_notice_integration_enabled":false,"cookie_law_info_integration_enabled":false},"woo":{"enabled":true,"addToCartOnButtonEnabled":true,"addToCartOnButtonValueEnabled":true,"addToCartOnButtonValueOption":"price","removeFromCartEnabled":true,"removeFromCartSelector":"form.woocommerce-cart-form .remove"},"edd":{"enabled":false,"addToCartOnButtonEnabled":true,"addToCartOnButtonValueEnabled":true,"addToCartOnButtonValueOption":"price","removeFromCartEnabled":true}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://giroskate.com/wp-content/plugins/pixelyoursite/dist/scripts/public.js?ver=7.1.11' id='pys-js'></script>
+<link rel="https://api.w.org/" href="https://giroskate.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://giroskate.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://giroskate.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.9" />
+<meta name="generator" content="WooCommerce 4.3.6" />
+<meta name="framework" content="Redux 4.2.14" /><meta name="facebook-domain-verification" content="audqta8x80lvynuh0ld9t1lc9jlg8o" />
+<!-- This website runs the Product Feed PRO for WooCommerce by AdTribes.io plugin -->
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #dd5858; }
+</style>
+	<meta name="generator" content="Powered by Slider Revolution 6.2.2 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script type="text/javascript">function setREVStartSize(e){			
+			try {								
+				var pw = document.getElementById(e.c).parentNode.offsetWidth,
+					newh;
+				pw = pw===0 || isNaN(pw) ? window.innerWidth : pw;
+				e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+				e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+				e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+				e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+				e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+				e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+				e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+				if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+					newh = Math.max(e.mh,window.innerHeight);				
+				else{					
+					e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+					for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+					e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+					e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+					for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+										
+					var nl = new Array(e.rl.length),
+						ix = 0,						
+						sl;					
+					e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+					e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+					e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+					e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+					for (var i in e.rl) nl[i] = e.rl[i]<window.innerWidth ? 0 : e.rl[i];
+					sl = nl[0];									
+					for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+					var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+
+					newh =  (e.type==="carousel" && e.justify==="true" ? e.gh[ix] : (e.gh[ix] * m)) + (e.tabh + e.thumbh);
+				}			
+				
+				if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style"));					
+				document.getElementById(e.c).height = newh;
+				window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }";				
+			} catch(e){
+				console.log("Failure at Presize of Slider:" + e)
+			}					   
+		  };</script>
+            <style>
+              :root { 
+                              }
+                                        </style>
+            <noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	
+		<!-- Facebook Pixel Code -->
+	<script>
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];
+	s.parentNode.insertBefore(t,s)}(window, document,'script',
+	'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '203424301569018');
+	fbq('track', 'PageView');
+	</script>
+	<noscript><img height="1" width="1" style="display:none"
+	src="https://www.facebook.com/tr?id=203424301569018&ev=PageView&noscript=1"
+	/></noscript>
+	<!-- End Facebook Pixel Code -->
+</head>
+<body data-rsssl=1 class="archive tax-product_cat term-scooter term-154 custom-background theme-zamona woocommerce woocommerce-page woocommerce-no-js wide header-v8 nav-default product-label-rectangle product-style-2 no-compare ts_desktop wpb-js-composer js-comp-ver-6.1 vc_responsive image-border">
+		<div id="ts-account-modal" class="ts-popup-modal no-registration">
+			<div class="overlay"></div>
+			<div class="account-container popup-container">
+				<span class="close">Close</span>
+				<div class="account-content">
+					<div class="woocommerce"><div class="woocommerce-notices-wrapper"></div>
+
+		<h2>Acceder</h2>
+
+		<form class="woocommerce-form woocommerce-form-login login" method="post">
+
+			
+			<p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
+				<label for="username">Nombre de usuario o correo electrónico&nbsp;<span class="required">*</span></label>
+				<input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" autocomplete="username" value="" />			</p>
+			<p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
+				<label for="password">Contraseña&nbsp;<span class="required">*</span></label>
+				<input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password" autocomplete="current-password" />
+			</p>
+
+			
+			<p class="form-row">
+				<label class="woocommerce-form__label woocommerce-form__label-for-checkbox woocommerce-form-login__rememberme">
+					<input class="woocommerce-form__input woocommerce-form__input-checkbox" name="rememberme" type="checkbox" id="rememberme" value="forever" /> <span>Recuérdame</span>
+				</label>
+				<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="7715589289" /><input type="hidden" name="_wp_http_referer" value="/product-category/scooter/" />				<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Acceder">Acceder</button>
+			</p>
+			<p class="woocommerce-LostPassword lost_password">
+				<a href="https://giroskate.com/mi-cuenta/lost-password/">¿Olvidaste la contraseña?</a>
+			</p>
+
+			
+		</form>
+
+
+</div>				</div>
+			</div>
+		</div>
+		
+<div id="page" class="hfeed site">
+
+			<!-- Page Slider -->
+				
+				
+		<div class="mobile-menu-wrapper ts-menu show-social">
+			<div class="menu-main-mobile">
+				<div class="mobile-menu-header">
+					<span class="ic-mobile-menu-close-button"></span>
+				</div>
+				
+				<nav class="mobile-menu"><ul id="menu-primer" class="menu"><li id="menu-item-1988" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1988"><a href="https://giroskate.com/">HOME</a></li>
+<li id="menu-item-1989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1989"><a href="https://giroskate.com/magazine/">REVISTA</a></li>
+<li id="menu-item-1990" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1990"><a href="https://giroskate.com/shop/">Tienda</a>
+<ul class="sub-menu">
+	<li id="menu-item-902" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-902"><a href="https://giroskate.com/product-category/scooter/" aria-current="page">Scooters</a></li>
+	<li id="menu-item-879" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-879"><a href="https://giroskate.com/product-category/skate/">Skate</a>
+	<ul class="sub-menu">
+		<li id="menu-item-6912" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-6912"><a href="https://giroskate.com/product-category/skate/longs1/">Longboards</a></li>
+		<li id="menu-item-6909" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-6909"><a href="https://giroskate.com/product-category/skate/tabla-armada-skate-2/">Patineta armada</a></li>
+		<li id="menu-item-6910" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-6910"><a href="https://giroskate.com/product-category/skate/pennys1/">Penny</a></li>
+		<li id="menu-item-6911" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-6911"><a href="https://giroskate.com/product-category/skate/cruiser1/">Cruiser</a></li>
+		<li id="menu-item-897" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-897"><a href="https://giroskate.com/product-category/skate/tabla/">Tabla</a></li>
+		<li id="menu-item-895" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-895"><a href="https://giroskate.com/product-category/skate/trucks/">Trucks</a></li>
+		<li id="menu-item-898" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-898"><a href="https://giroskate.com/product-category/skate/llantas-skate/">Llantas</a></li>
+		<li id="menu-item-900" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-900"><a href="https://giroskate.com/product-category/skate/balero/">Balero</a></li>
+		<li id="menu-item-899" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-899"><a href="https://giroskate.com/product-category/skate/lijas/">Lijas</a></li>
+		<li id="menu-item-901" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-901"><a href="https://giroskate.com/product-category/skate/accesorios/">Accesorios</a></li>
+	</ul>
+</li>
+	<li id="menu-item-880" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-880"><a href="https://giroskate.com/product-category/patines/">Patines</a>
+	<ul class="sub-menu">
+		<li id="menu-item-894" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-894"><a href="https://giroskate.com/product-category/patines/linea/">Linea</a></li>
+		<li id="menu-item-893" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-893"><a href="https://giroskate.com/product-category/patines/quads/">Quads</a></li>
+		<li id="menu-item-892" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-892"><a href="https://giroskate.com/product-category/patines/set-completo/">Set completo</a></li>
+	</ul>
+</li>
+	<li id="menu-item-881" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-881"><a href="https://giroskate.com/product-category/tennis/">Tennis</a>
+	<ul class="sub-menu">
+		<li id="menu-item-887" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-887"><a href="https://giroskate.com/product-category/tennis/tennis-nacional/">Nacional</a></li>
+		<li id="menu-item-891" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-891"><a href="https://giroskate.com/product-category/tennis/importado/">Importado</a></li>
+	</ul>
+</li>
+	<li id="menu-item-882" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-882"><a href="https://giroskate.com/product-category/ropa/">Ropa</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3329" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3329"><a href="https://giroskate.com/product-category/ropa/sudadera/">Sudadera</a></li>
+		<li id="menu-item-886" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-886"><a href="https://giroskate.com/product-category/ropa/playera/">Playera</a></li>
+		<li id="menu-item-903" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-903"><a href="https://giroskate.com/product-category/ropa/pantalones/">Pantalones</a></li>
+		<li id="menu-item-904" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-904"><a href="https://giroskate.com/product-category/ropa/accesorios-ropa/">Accesorios</a></li>
+	</ul>
+</li>
+	<li id="menu-item-883" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-883"><a href="https://giroskate.com/product-category/equipo-de-proteccion/">Equipo de protección</a>
+	<ul class="sub-menu">
+		<li id="menu-item-884" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-884"><a href="https://giroskate.com/product-category/equipo-de-proteccion/casco/">Cascos</a></li>
+		<li id="menu-item-885" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-885"><a href="https://giroskate.com/product-category/equipo-de-proteccion/kit-de-protecciones/">Kit de protecciones</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-8436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8436"><a href="https://giroskate.com/locales/">Encuentra tu tienda</a></li>
+<li id="menu-item-2003" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2003"><a href="https://www.facebook.com/giroskateshop"><img src="https://giroskate.com/wp-content/uploads/2020/05/fb@2x-300x300.png" alt="" width="20" height="20"  /></a></li>
+<li id="menu-item-2009" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2009"><a href="https://www.instagram.com/giroskateshop/"><img src="https://giroskate.com/wp-content/uploads/2020/05/insta@2x-300x300.png" alt="" width="20" height="20" /></a></li>
+<li id="menu-item-2008" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2008"><a href="https://www.youtube.com/user/jaimealejo"><img src="https://giroskate.com/wp-content/uploads/2020/05/yt@2x-300x300.png" alt="" width="20" height="20" /></a></li>
+<li id="menu-item-2010" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2010"><a href="https://twitter.com/giropatinetas"><img src="https://giroskate.com/wp-content/uploads/2020/05/twt-300x300.png" alt="" width="20" height="20"  /></a></li>
+</ul></nav>			</div>
+			
+						
+		</div>
+		
+		<!-- Shopping Cart Floating Sidebar -->
+				
+		
+<header class="ts-header ">
+	<div class="header-container">
+		<div class="header-template header-no-line show-cart show-wishlist show-search">
+			<div class="header-top">
+				<div class="container">
+				
+					<span class="ic-mobile-menu-button visible-phone"></span>
+					
+					<div class="header-left">
+						
+												
+												
+					</div>
+					
+					<span class="ts-group-meta-icon-toggle visible-phone"></span>
+					
+					<div class="header-right">					
+						
+						<div class="group-meta-header">
+							
+														
+								
+							
+							
+						</div>
+	
+					</div>
+				</div>
+			</div>
+			
+			<div class="header-middle">
+				<div class="container">
+				
+					<div class="header-left">
+						
+												<div class="search-wrapper search-line">
+							<div class="ts-search-by-category"><form method="get" action="https://giroskate.com/" id="searchform-120">
+	<div class="search-table">
+		<div class="search-field search-content">
+			<input type="text" value="" name="s" id="s-120" placeholder="Search for products" autocomplete="off" />
+						<input type="hidden" name="post_type" value="product" />
+					</div>
+		<div class="search-button">
+			<input type="submit" id="searchsubmit-120" value="Search" />
+		</div>
+	</div>
+</form></div>
+						</div>
+												
+					</div>
+					
+					<div class="logo-wrapper logo-center">		<div class="logo">
+			<a href="https://giroskate.com/">
+			<!-- Main logo -->
+							<img src="https://giroskate.com/wp-content/uploads/2020/05/10570540_819742061382151_5246282341589500163_n.png" alt="Giroskate" title="Giroskate" class="normal-logo" />
+						
+			<!-- Main logo on mobile -->
+							<img src="https://giroskate.com/wp-content/uploads/2020/05/10570540_819742061382151_5246282341589500163_n.png" alt="Giroskate" title="Giroskate" class="mobile-logo" />
+						
+			<!-- Sticky logo -->
+							<img src="https://giroskate.com/wp-content/uploads/2020/05/10570540_819742061382151_5246282341589500163_n.png" alt="Giroskate" title="Giroskate" class="sticky-logo" />
+						
+			<!-- Logo Text -->
+						</a>
+		</div>
+		</div>
+					
+					<div class="header-right">
+						
+												<div class="shopping-cart-wrapper cart-large">			<div class="ts-tiny-cart-wrapper">
+									<a class="cart-control" href="https://giroskate.com/carrito/" title="View your shopping cart">
+						<span class="ic-cart"></span>
+						<span class="cart-number">0</span>
+					</a>
+											<span class="cart-drop-icon drop-icon"></span>
+																	<div class="cart-dropdown-form dropdown-container">
+					<div class="form-content">
+													<label>Your shopping cart is empty</label>
+											</div>
+				</div>
+							</div>
+		</div>
+												
+												<div class="my-wishlist-wrapper">
+	<a title="Wishlist" href="https://giroskate.com/lista-de-deseos/" class="tini-wishlist">
+		<span class="ic-wishlist"></span>
+		<span class="wishlist-number">0</span>
+	</a>
+
+	</div>
+												
+												<div class="my-account-wrapper account-large">		<div class="ts-tiny-account-wrapper">
+			<div class="account-control">
+									<a  class="login" href="https://giroskate.com/mi-cuenta/" title="Login"></a>
+							</div>
+					</div>
+		
+		</div>
+												
+					</div>
+					
+				</div>
+			</div>
+			
+			<div class="header-bottom header-sticky hidden-phone">
+				<div class="container">
+
+					<div class="menu-wrapper menu-center">							
+						<div class="ts-menu">
+							<nav class="main-menu pc-menu ts-mega-menu-wrapper"><ul id="menu-primer-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1988"><a href="https://giroskate.com/">HOME</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1989"><a href="https://giroskate.com/magazine/">REVISTA</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1990"><a href="https://giroskate.com/shop/">Tienda</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-902"><a href="https://giroskate.com/product-category/scooter/" aria-current="page">Scooters</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-879"><a href="https://giroskate.com/product-category/skate/">Skate</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-6912"><a href="https://giroskate.com/product-category/skate/longs1/">Longboards</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-6909"><a href="https://giroskate.com/product-category/skate/tabla-armada-skate-2/">Patineta armada</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-6910"><a href="https://giroskate.com/product-category/skate/pennys1/">Penny</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-6911"><a href="https://giroskate.com/product-category/skate/cruiser1/">Cruiser</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-897"><a href="https://giroskate.com/product-category/skate/tabla/">Tabla</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-895"><a href="https://giroskate.com/product-category/skate/trucks/">Trucks</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-898"><a href="https://giroskate.com/product-category/skate/llantas-skate/">Llantas</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-900"><a href="https://giroskate.com/product-category/skate/balero/">Balero</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-899"><a href="https://giroskate.com/product-category/skate/lijas/">Lijas</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-901"><a href="https://giroskate.com/product-category/skate/accesorios/">Accesorios</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-880"><a href="https://giroskate.com/product-category/patines/">Patines</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-894"><a href="https://giroskate.com/product-category/patines/linea/">Linea</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-893"><a href="https://giroskate.com/product-category/patines/quads/">Quads</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-892"><a href="https://giroskate.com/product-category/patines/set-completo/">Set completo</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-881"><a href="https://giroskate.com/product-category/tennis/">Tennis</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-887"><a href="https://giroskate.com/product-category/tennis/tennis-nacional/">Nacional</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-891"><a href="https://giroskate.com/product-category/tennis/importado/">Importado</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-882"><a href="https://giroskate.com/product-category/ropa/">Ropa</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3329"><a href="https://giroskate.com/product-category/ropa/sudadera/">Sudadera</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-886"><a href="https://giroskate.com/product-category/ropa/playera/">Playera</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-903"><a href="https://giroskate.com/product-category/ropa/pantalones/">Pantalones</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-904"><a href="https://giroskate.com/product-category/ropa/accesorios-ropa/">Accesorios</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-883"><a href="https://giroskate.com/product-category/equipo-de-proteccion/">Equipo de protección</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-884"><a href="https://giroskate.com/product-category/equipo-de-proteccion/casco/">Cascos</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-885"><a href="https://giroskate.com/product-category/equipo-de-proteccion/kit-de-protecciones/">Kit de protecciones</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8436"><a href="https://giroskate.com/locales/">Encuentra tu tienda</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2003"><a href="https://www.facebook.com/giroskateshop"><img src="https://giroskate.com/wp-content/uploads/2020/05/fb@2x-300x300.png" alt="" width="20" height="20"  /></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2009"><a href="https://www.instagram.com/giroskateshop/"><img src="https://giroskate.com/wp-content/uploads/2020/05/insta@2x-300x300.png" alt="" width="20" height="20" /></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2008"><a href="https://www.youtube.com/user/jaimealejo"><img src="https://giroskate.com/wp-content/uploads/2020/05/yt@2x-300x300.png" alt="" width="20" height="20" /></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2010"><a href="https://twitter.com/giropatinetas"><img src="https://giroskate.com/wp-content/uploads/2020/05/twt-300x300.png" alt="" width="20" height="20"  /></a></li>
+</ul></nav>						</div>
+					</div>
+					
+				</div>
+			</div>
+		</div>	
+	</div>
+</header>		
+		
+	
+	<div id="main" class="wrapper"><div class="breadcrumb-title-wrapper breadcrumb-v1" ><div class="breadcrumb-content"><div class="breadcrumb-title"><h1 class="heading-title page-title entry-title ">Scooters</h1><div class="breadcrumbs"><div class="breadcrumbs-container"><a href="https://giroskate.com">Inicio</a><span>&#47;</span>Scooters</div></div></div></div></div><div class="page-container show_breadcrumb_v1">
+
+	<!-- Left Sidebar -->
+		
+	
+		<div id="main-content" class="ts-col-24">	
+		<div id="primary" class="site-content">
+		
+				
+			<div class="before-loop-wrapper"><div class="woocommerce-notices-wrapper"></div>				<nav class="gridlist-toggle">
+					<a href="#" id="grid" title="Grid view">&#8862; <span>Grid view</span></a>
+					<a href="#" id="list" title="List view">&#8863; <span>List view</span></a>
+				</nav>
+			<p class="woocommerce-result-count">
+	Mostrando todos los resultados 2</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Shop order" style="display: none">
+					<option value="menu_order"  selected='selected'>Orden por defecto</option>
+					<option value="popularity" >Ordenar por popularidad</option>
+					<option value="rating" >Ordenar por calificación media</option>
+					<option value="date" >Ordenar por las últimas</option>
+					<option value="price" >Ordenar por precio: bajo a alto</option>
+					<option value="price-desc" >Ordenar por precio: alto a bajo</option>
+			</select>
+	<ul class="orderby">
+		<li><span class="orderby-current">Orden por defecto</span>
+			<ul class="dropdown">
+								<li><a href="#" data-orderby="menu_order" class="current">Orden por defecto</a></li>
+								<li><a href="#" data-orderby="popularity" class="">Ordenar por popularidad</a></li>
+								<li><a href="#" data-orderby="rating" class="">Ordenar por calificación media</a></li>
+								<li><a href="#" data-orderby="date" class="">Ordenar por las últimas</a></li>
+								<li><a href="#" data-orderby="price" class="">Ordenar por precio: bajo a alto</a></li>
+								<li><a href="#" data-orderby="price-desc" class="">Ordenar por precio: alto a bajo</a></li>
+							</ul>
+		</li>
+	</ul>
+	<input type="hidden" name="paged" value="1" />
+	</form>
+	<form method="get" action="https://giroskate.com/product-category/scooter/" class="product-per-page-form">
+		<span>Show</span>
+		<select name="per_page" class="perpage">
+						<option value="16"  selected='selected'>16</option>
+						<option value="32" >32</option>
+						<option value="48" >48</option>
+						<option value="64" >64</option>
+					</select>
+		<ul class="perpage">
+			<li>
+				<span class="perpage-current">16</span>
+				<ul class="dropdown">
+										<li><a href="#" data-perpage="16" class="current">16</a></li>
+										<li><a href="#" data-perpage="32" class="">32</a></li>
+										<li><a href="#" data-perpage="48" class="">48</a></li>
+										<li><a href="#" data-perpage="64" class="">64</a></li>
+									</ul>
+			</li>
+		</ul>
+			</form>
+</div>
+			
+			<!-- Top Filter Widget Area -->
+						
+						<div class="woocommerce columns-4">
+			<div class="products"><section class="product type-product post-3458 status-publish first instock product_cat-scooter product_tag-electrico product_tag-scooter has-post-thumbnail shipping-taxable purchasable product-type-variable" data-product_id="3458">
+	<div class="product-wrapper">
+			
+		<div class="thumbnail-wrapper lazy-loading">
+			<a href="https://giroskate.com/product/scooter-electrico-asistido-rosa/">
+
+				<figure class="has-back-image"><img src="https://giroskate.com/wp-content/themes/zamona/images/prod_loading.gif" data-src="https://giroskate.com/wp-content/uploads/2020/05/IMG_0417-removebg-preview-e1594323899758-408x430.png" class="attachment-shop_catalog wp-post-image ts-lazy-load" alt="" width="430" height="430" /><img src="https://giroskate.com/wp-content/themes/zamona/images/prod_loading.gif" data-src="https://giroskate.com/wp-content/uploads/2020/05/IMG_0425-removebg-preview-e1594323919733-408x430.png" class="product-image-back ts-lazy-load" alt="" width="430" height="430" /></figure>
+			</a>
+					<div class="product-label">
+		</div>
+	<div class="product-group-button three-button" ><div class="button-in quickshop"><a class="quickshop" href="#" data-product_id="3458"><span class="ts-tooltip button-tooltip">Quick view</span></a></div><div class="button-in wishlist">
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-3458  wishlist-fragment on-first-load" data-fragment-ref="3458" data-fragment-options="{&quot;base_url&quot;:&quot;https:\/\/giroskate.com\/product-category\/scooter?product_cat=scooter&quot;,&quot;wishlist_url&quot;:&quot;https:\/\/giroskate.com\/lista-de-deseos\/&quot;,&quot;in_default_wishlist&quot;:false,&quot;is_single&quot;:false,&quot;show_exists&quot;:false,&quot;product_id&quot;:3458,&quot;parent_product_id&quot;:3458,&quot;product_type&quot;:&quot;variable&quot;,&quot;show_view&quot;:false,&quot;browse_wishlist_text&quot;:&quot;Echar un vistazo a la lista de deseos&quot;,&quot;already_in_wishslist_text&quot;:&quot;\u00a1El producto ya est\u00e1 en tu lista de deseos!&quot;,&quot;product_added_text&quot;:&quot;\u00a1Producto a\u00f1adido!&quot;,&quot;heading_icon&quot;:&quot;fa-heart-o&quot;,&quot;available_multi_wishlist&quot;:false,&quot;disable_wishlist&quot;:false,&quot;show_count&quot;:false,&quot;ajax_loading&quot;:false,&quot;loop_position&quot;:&quot;after_add_to_cart&quot;,&quot;item&quot;:&quot;add_to_wishlist&quot;}">
+			
+			<!-- ADD TO WISHLIST -->
+			
+<div class="yith-wcwl-add-button">
+	<a href="https://giroskate.com/product-category/scooter?product_cat=scooter&#038;add_to_wishlist=3458" rel="nofollow" data-product-id="3458" data-product-type="variable" data-original-product-id="3458" class="add_to_wishlist single_add_to_wishlist" data-title="&lt;span class=&quot;ts-tooltip button-tooltip&quot;&gt;Wishlist&lt;/span&gt;">
+		<i class="yith-wcwl-icon fa fa-heart-o"></i>		<span><span class="ts-tooltip button-tooltip">Wishlist</span></span>
+	</a>
+</div>
+			<!-- COUNT TEXT -->
+			
+			</div></div><div class="loop-add-to-cart"><a href="https://giroskate.com/product/scooter-electrico-asistido-rosa/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="3458" data-product_sku="" aria-label="Elige las opciones para &ldquo;Scooter Eléctrico Asistido&rdquo;" rel="nofollow"><span class="ts-tooltip button-tooltip">Seleccionar opciones</span></a></div></div>			
+		</div>
+		<div class="meta-wrapper">
+			<h3 class="heading-title product-name"><a href="https://giroskate.com/product/scooter-electrico-asistido-rosa/">Scooter Eléctrico Asistido</a></h3>
+	<div class="price"><span class="price-wrapper"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>3,600.00</span></span></div>
+		<div class="short-description list" style="display: none" >
+			Scooter Eléctrico Asistido para niños		</div>
+	<div class="product-group-button-meta"><div class="loop-add-to-cart"><a href="https://giroskate.com/product/scooter-electrico-asistido-rosa/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="3458" data-product_sku="" aria-label="Elige las opciones para &ldquo;Scooter Eléctrico Asistido&rdquo;" rel="nofollow"><span class="ts-tooltip button-tooltip">Seleccionar opciones</span></a></div><div class="button-in wishlist">
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-3458  wishlist-fragment on-first-load" data-fragment-ref="3458" data-fragment-options="{&quot;base_url&quot;:&quot;https:\/\/giroskate.com\/product-category\/scooter?product_cat=scooter&quot;,&quot;wishlist_url&quot;:&quot;https:\/\/giroskate.com\/lista-de-deseos\/&quot;,&quot;in_default_wishlist&quot;:false,&quot;is_single&quot;:false,&quot;show_exists&quot;:false,&quot;product_id&quot;:3458,&quot;parent_product_id&quot;:3458,&quot;product_type&quot;:&quot;variable&quot;,&quot;show_view&quot;:false,&quot;browse_wishlist_text&quot;:&quot;Echar un vistazo a la lista de deseos&quot;,&quot;already_in_wishslist_text&quot;:&quot;\u00a1El producto ya est\u00e1 en tu lista de deseos!&quot;,&quot;product_added_text&quot;:&quot;\u00a1Producto a\u00f1adido!&quot;,&quot;heading_icon&quot;:&quot;fa-heart-o&quot;,&quot;available_multi_wishlist&quot;:false,&quot;disable_wishlist&quot;:false,&quot;show_count&quot;:false,&quot;ajax_loading&quot;:false,&quot;loop_position&quot;:&quot;after_add_to_cart&quot;,&quot;item&quot;:&quot;add_to_wishlist&quot;}">
+			
+			<!-- ADD TO WISHLIST -->
+			
+<div class="yith-wcwl-add-button">
+	<a href="https://giroskate.com/product-category/scooter?product_cat=scooter&#038;add_to_wishlist=3458" rel="nofollow" data-product-id="3458" data-product-type="variable" data-original-product-id="3458" class="add_to_wishlist single_add_to_wishlist" data-title="&lt;span class=&quot;ts-tooltip button-tooltip&quot;&gt;Wishlist&lt;/span&gt;">
+		<i class="yith-wcwl-icon fa fa-heart-o"></i>		<span><span class="ts-tooltip button-tooltip">Wishlist</span></span>
+	</a>
+</div>
+			<!-- COUNT TEXT -->
+			
+			</div></div></div>		</div>
+	</div>
+</section><section class="product type-product post-6839 status-publish instock product_cat-scooter product_tag-scotter product_tag-sobre-ruedas product_tag-trucos has-post-thumbnail shipping-taxable purchasable product-type-simple" data-product_id="6839">
+	<div class="product-wrapper">
+			
+		<div class="thumbnail-wrapper lazy-loading">
+			<a href="https://giroskate.com/product/scotter-groove-pro/">
+
+				<figure class="has-back-image"><img src="https://giroskate.com/wp-content/themes/zamona/images/prod_loading.gif" data-src="https://giroskate.com/wp-content/uploads/2021/04/IMG_2600-430x430.jpg" class="attachment-shop_catalog wp-post-image ts-lazy-load" alt="" width="430" height="430" /><img src="https://giroskate.com/wp-content/themes/zamona/images/prod_loading.gif" data-src="https://giroskate.com/wp-content/uploads/2021/04/IMG_2601-430x430.jpg" class="product-image-back ts-lazy-load" alt="" width="430" height="430" /></figure>
+			</a>
+					<div class="product-label">
+		</div>
+	<div class="product-group-button three-button" ><div class="button-in quickshop"><a class="quickshop" href="#" data-product_id="6839"><span class="ts-tooltip button-tooltip">Quick view</span></a></div><div class="button-in wishlist">
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-6839  wishlist-fragment on-first-load" data-fragment-ref="6839" data-fragment-options="{&quot;base_url&quot;:&quot;https:\/\/giroskate.com\/product-category\/scooter?product_cat=scooter&quot;,&quot;wishlist_url&quot;:&quot;https:\/\/giroskate.com\/lista-de-deseos\/&quot;,&quot;in_default_wishlist&quot;:false,&quot;is_single&quot;:false,&quot;show_exists&quot;:false,&quot;product_id&quot;:6839,&quot;parent_product_id&quot;:6839,&quot;product_type&quot;:&quot;simple&quot;,&quot;show_view&quot;:false,&quot;browse_wishlist_text&quot;:&quot;Echar un vistazo a la lista de deseos&quot;,&quot;already_in_wishslist_text&quot;:&quot;\u00a1El producto ya est\u00e1 en tu lista de deseos!&quot;,&quot;product_added_text&quot;:&quot;\u00a1Producto a\u00f1adido!&quot;,&quot;heading_icon&quot;:&quot;fa-heart-o&quot;,&quot;available_multi_wishlist&quot;:false,&quot;disable_wishlist&quot;:false,&quot;show_count&quot;:false,&quot;ajax_loading&quot;:false,&quot;loop_position&quot;:&quot;after_add_to_cart&quot;,&quot;item&quot;:&quot;add_to_wishlist&quot;}">
+			
+			<!-- ADD TO WISHLIST -->
+			
+<div class="yith-wcwl-add-button">
+	<a href="https://giroskate.com/product-category/scooter?product_cat=scooter&#038;add_to_wishlist=6839" rel="nofollow" data-product-id="6839" data-product-type="simple" data-original-product-id="6839" class="add_to_wishlist single_add_to_wishlist" data-title="&lt;span class=&quot;ts-tooltip button-tooltip&quot;&gt;Wishlist&lt;/span&gt;">
+		<i class="yith-wcwl-icon fa fa-heart-o"></i>		<span><span class="ts-tooltip button-tooltip">Wishlist</span></span>
+	</a>
+</div>
+			<!-- COUNT TEXT -->
+			
+			</div></div><div class="loop-add-to-cart"><a href="?add-to-cart=6839" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="6839" data-product_sku="" aria-label="Añade &ldquo;SCOTTER GROOVE PRO&rdquo; a tu carrito" rel="nofollow"><span class="ts-tooltip button-tooltip">Añadir al carrito</span></a></div></div>			
+		</div>
+		<div class="meta-wrapper">
+			
+		<script type="text/javascript">
+            /* <![CDATA[ */
+            window.pysWooProductData = window.pysWooProductData || [];
+            window.pysWooProductData[ 6839 ] = {"facebook":{"content_type":"product","content_ids":"[\"6839\"]","tags":"scotter, Sobre ruedas, trucos","content_name":"SCOTTER GROOVE PRO","category_name":"Scooters","value":3100,"currency":"MXN","contents":[{"id":"6839","quantity":"1","item_price":"3100"}]}};
+            /* ]]> */
+		</script>
+
+		<h3 class="heading-title product-name"><a href="https://giroskate.com/product/scotter-groove-pro/">SCOTTER GROOVE PRO</a></h3>
+	<div class="price"><span class="price-wrapper"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>3,100.00</span></span></div>
+		<div class="short-description list" style="display: none" >
+			Pide el tuyo x aqui o mandanos tu pedido personalmente:
+
+Whatsapp: 2221536866, 2221697943
+
+Inbox Facebook
+
+PUEBLA: Compra directo en cualquiera de nuestras tres sucursales:
+
+GALERIAS LAS ANIMAS LOCAL D17
+
+PASEO SAN FRANCISCO LOCAL 205
+
+PLAZA SAN DIEGO LOCAL 32A		</div>
+	<div class="product-group-button-meta"><div class="loop-add-to-cart"><a href="?add-to-cart=6839" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="6839" data-product_sku="" aria-label="Añade &ldquo;SCOTTER GROOVE PRO&rdquo; a tu carrito" rel="nofollow"><span class="ts-tooltip button-tooltip">Añadir al carrito</span></a></div><div class="button-in wishlist">
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-6839  wishlist-fragment on-first-load" data-fragment-ref="6839" data-fragment-options="{&quot;base_url&quot;:&quot;https:\/\/giroskate.com\/product-category\/scooter?product_cat=scooter&quot;,&quot;wishlist_url&quot;:&quot;https:\/\/giroskate.com\/lista-de-deseos\/&quot;,&quot;in_default_wishlist&quot;:false,&quot;is_single&quot;:false,&quot;show_exists&quot;:false,&quot;product_id&quot;:6839,&quot;parent_product_id&quot;:6839,&quot;product_type&quot;:&quot;simple&quot;,&quot;show_view&quot;:false,&quot;browse_wishlist_text&quot;:&quot;Echar un vistazo a la lista de deseos&quot;,&quot;already_in_wishslist_text&quot;:&quot;\u00a1El producto ya est\u00e1 en tu lista de deseos!&quot;,&quot;product_added_text&quot;:&quot;\u00a1Producto a\u00f1adido!&quot;,&quot;heading_icon&quot;:&quot;fa-heart-o&quot;,&quot;available_multi_wishlist&quot;:false,&quot;disable_wishlist&quot;:false,&quot;show_count&quot;:false,&quot;ajax_loading&quot;:false,&quot;loop_position&quot;:&quot;after_add_to_cart&quot;,&quot;item&quot;:&quot;add_to_wishlist&quot;}">
+			
+			<!-- ADD TO WISHLIST -->
+			
+<div class="yith-wcwl-add-button">
+	<a href="https://giroskate.com/product-category/scooter?product_cat=scooter&#038;add_to_wishlist=6839" rel="nofollow" data-product-id="6839" data-product-type="simple" data-original-product-id="6839" class="add_to_wishlist single_add_to_wishlist" data-title="&lt;span class=&quot;ts-tooltip button-tooltip&quot;&gt;Wishlist&lt;/span&gt;">
+		<i class="yith-wcwl-icon fa fa-heart-o"></i>		<span><span class="ts-tooltip button-tooltip">Wishlist</span></span>
+	</a>
+</div>
+			<!-- COUNT TEXT -->
+			
+			</div></div></div>		</div>
+	</div>
+</section></div>			</div>
+			
+			<div class="after-loop-wrapper">
+						</div>
+			
+		
+			</div>
+	</div>
+	<!-- Right Sidebar -->
+		
+	
+</div>
+<div class="clear"></div>
+</div><!-- #main .wrapper -->
+<div class="clear"></div>
+		<footer id="colophon">
+		<div class="footer-container">
+						<div class="first-footer-area footer-area">
+				<div class="container">
+					<div class="ts-col-24">
+						<div  class="vc_row wpb_row vc_row-fluid vc_column-gap-default ts-row-wide"  ><div class="wpb_column vc_column_container vc_col-sm-12">
+	<div class="wpb_wrapper">
+	<div class="vc_empty_space"   style="height: 50px"><span class="vc_empty_space_inner"></span></div>	</div>
+</div></div>	<div  class="vc_row wpb_row vc_row-fluid vc_column-gap-default ts-row-wide"  ><div class="wpb_column vc_column_container vc_col-sm-4">
+	<div class="wpb_wrapper">
+	
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeIn fadeIn" >
+		<div class="wpb_wrapper">
+			<p>&nbsp;</p>
+<h3 style="text-align: center;"><a href="https://giroskate.com/locales/">Encuentra tu tienda</a></h3>
+<h3 style="text-align: center;"><a href="https://giroskate.com/patinetas/">Skate</a></h3>
+<h3 style="text-align: center;"><a href="https://giroskate.com/patines/">Patines</a></h3>
+<h3 style="text-align: center;"><a href="https://giroskate.com/tenis/">Tenis</a></h3>
+<h3 style="text-align: center;"><a href="https://giroskate.com/ropa/">Ropa</a></h3>
+<h3 style="text-align: center;"><a href="https://giroskate.com/acesorios/">Accesorios</a></h3>
+
+		</div>
+	</div>
+	</div>
+</div><div class="wpb_column vc_column_container vc_col-sm-4">
+	<div class="wpb_wrapper">
+	
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h3><strong>Correo</strong></h3>
+<p style="text-align: left;"><a class="oajrlxb2 g5ia77u1 qu0x051f esr5mh6w e9989ue4 r7d6kgcz rq0escxv nhd2j8a9 nc684nl6 p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso i1ao9s8h esuyzwwr f1sip0of lzcic4wl py34i1dx gpro0wi8" tabindex="0" role="link" href="mailto:giroskate@hotmail.com" target="_blank" rel="noopener noreferrer">giroskate@hotmail.com</a></p>
+
+		</div>
+	</div>
+	</div>
+</div><div class="wpb_column vc_column_container vc_col-sm-4">
+	<div class="wpb_wrapper">
+	
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h3 style="text-align: center;">Formas de pago</h3>
+<p><img loading="lazy" class="wp-image-853" src="https://giroskate.com/wp-content/uploads/2020/05/PayPal-logo-300x169.png" alt="" width="100" height="56" /><img loading="lazy" class="wp-image-840 " src="https://giroskate.com/wp-content/uploads/2020/05/1200px-Mastercard-logo.svg_-300x234.png" alt="" width="100" height="78" /><img loading="lazy" class="wp-image-855 " src="https://giroskate.com/wp-content/uploads/2020/05/visa-logo-300x98.png" alt="" width="100" height="33" /></p>
+
+		</div>
+	</div>
+	</div>
+</div></div>
+					</div>
+				</div>
+			</div>
+						
+					</div>
+	</footer>
+	</div><!-- #page -->
+
+<div id="to-top" class="scroll-button">
+	<a class="scroll-button" href="javascript:void(0)" title="Back to Top">Back to Top</a>
+</div>
+
+<script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Inicio","@id":"https:\/\/giroskate.com"}},{"@type":"ListItem","position":2,"item":{"name":"Scooters","@id":"https:\/\/giroskate.com\/product-category\/scooter\/"}}]}</script><script type="text/html" id="wpb-modifications"></script>				<script type="text/javascript">
+					jQuery(document).ready(function($){
+						"use strict";
+						var glt_default = 'grid';
+						if ( typeof $.cookie == 'function' && $.cookie('tsgridlisttoggle') != null ) {
+							glt_default = $.cookie('tsgridlisttoggle');
+						}
+						$('#main-content div.products').addClass(glt_default);
+						$('.gridlist-toggle #' + glt_default).addClass('active');
+						
+						$('#grid, #list').on('click', function(){
+							if( $(this).hasClass('active') ){
+								return false;
+							}
+							var id = $(this).attr('id');
+							var removed_class = id=='list'?'grid':'list';
+							$('#grid, #list').removeClass('active');
+							$(this).addClass('active');
+							$('#main-content div.products').fadeOut(300, function() {
+								$(this).removeClass(removed_class).addClass(id).fadeIn(300);
+							});
+							if( typeof $.cookie == 'function' ){
+								$.cookie('tsgridlisttoggle',id, { path: '/' });
+							}
+							return false;
+						});
+					});
+				</script>
+			<noscript><img height="1" width="1" style="display: none;" src="https://www.facebook.com/tr?id=254169923142893&ev=PageView&noscript=1" alt="facebook_pixel"></noscript>
+<noscript><img height="1" width="1" style="display: none;" src="https://www.facebook.com/tr?id=254169923142893&ev=GeneralEvent&noscript=1&cd[post_type]=product_cat&cd[post_id]=154&cd[content_name]=Scooters" alt="facebook_pixel"></noscript>
+<noscript><img height="1" width="1" style="display: none;" src="https://www.facebook.com/tr?id=254169923142893&ev=ViewCategory&noscript=1&cd[content_type]=product&cd[content_category]&cd[content_name]=Scooters&cd[content_ids]=%5B%226839%22%2C%223458%22%5D" alt="facebook_pixel"></noscript>
+<div id="qlwapp" class="qlwapp-free qlwapp-button qlwapp-bottom-right qlwapp-all qlwapp-rounded">
+  <div class="qlwapp-container">
+        <a class="qlwapp-toggle" 
+       data-action="open" 
+       data-phone="522221536866" 
+       data-message="¡Hola! Tengo una duda." href="javascript:void(0);" target="_blank">
+                <i class="qlwapp-icon qlwapp-whatsapp-icon"></i>
+            <i class="qlwapp-close" data-action="close">&times;</i>
+                <span class="qlwapp-text">¿Cómo puedo ayudarte?</span>
+          </a>
+  </div>
+</div>
+	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+	<link rel='stylesheet' id='vc_animate-css-css'  href='https://giroskate.com/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css?ver=6.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://giroskate.com/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.selectBox.min.js?ver=1.2.0' id='jquery-selectBox-js'></script>
+<script type='text/javascript' id='jquery-yith-wcwl-js-extra'>
+/* <![CDATA[ */
+var yith_wcwl_l10n = {"ajax_url":"\/wp-admin\/admin-ajax.php","redirect_to_cart":"no","multi_wishlist":"","hide_add_button":"1","enable_ajax_loading":"","ajax_loader_url":"https:\/\/giroskate.com\/wp-content\/plugins\/yith-woocommerce-wishlist\/assets\/images\/ajax-loader-alt.svg","remove_from_wishlist_after_add_to_cart":"1","is_wishlist_responsive":"1","labels":{"cookie_disabled":"Lo siento, pero esta caracter\u00edstica solo est\u00e1 disponible si las cookies de tu navegador est\u00e1n activadas.","added_to_cart_message":"<div class=\"woocommerce-notices-wrapper\"><div class=\"woocommerce-message\" role=\"alert\">Producto a\u00f1adido al carrito con \u00e9xito<\/div><\/div>"},"actions":{"add_to_wishlist_action":"add_to_wishlist","remove_from_wishlist_action":"remove_from_wishlist","reload_wishlist_and_adding_elem_action":"reload_wishlist_and_adding_elem","load_mobile_action":"load_mobile","delete_item_action":"delete_item","save_title_action":"save_title","save_privacy_action":"save_privacy","load_fragments":"load_fragments"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://giroskate.com/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.yith-wcwl.js?ver=3.0.11' id='jquery-yith-wcwl-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/giroskate.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://giroskate.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3.2' id='contact-form-7-js'></script>
+<script type='text/javascript' id='ts-shortcode-js-extra'>
+/* <![CDATA[ */
+var ts_shortcode_params = {"ajax_uri":"\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://giroskate.com/wp-content/plugins/themesky/js/shortcode.js?ver=1.0.5' id='ts-shortcode-js'></script>
+<script type='text/javascript' src='https://giroskate.com/wp-content/plugins/themesky/js/owl.carousel.min.js?ver=1.0.5' id='owl-carousel-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://giroskate.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=4.3.6' id='woocommerce-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_c1107813cfd7af80abd82f6a31dc2794","fragment_name":"wc_fragments_c1107813cfd7af80abd82f6a31dc2794","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://giroskate.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=4.3.6' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' id='yith-woocompare-main-js-extra'>
+/* <![CDATA[ */
+var yith_woocompare = {"ajaxurl":"\/?wc-ajax=%%endpoint%%","actionadd":"yith-woocompare-add-product","actionremove":"yith-woocompare-remove-product","actionview":"yith-woocompare-view-table","actionreload":"yith-woocompare-reload-product","added_label":"A\u00f1adido","table_title":"Comparaci\u00f3n de productos","auto_open":"yes","loader":"https:\/\/giroskate.com\/wp-content\/plugins\/yith-woocommerce-compare\/assets\/images\/loader.gif","button_text":"<span class=\"ts-tooltip button-tooltip\">Comparar<\/span>","cookie_name":"yith_woocompare_list","close_label":"Cerrar"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://giroskate.com/wp-content/plugins/yith-woocommerce-compare/assets/js/woocompare.min.js?ver=2.3.22' id='yith-woocompare-main-js'></script>
+<script type='text/javascript' src='https://giroskate.com/wp-content/plugins/yith-woocommerce-compare/assets/js/jquery.colorbox-min.js?ver=1.4.21' id='jquery-colorbox-js'></script>
+<script type='text/javascript' src='//giroskate.com/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.min.js?ver=3.1.6' id='prettyPhoto-js'></script>
+<script type='text/javascript' src='https://giroskate.com/wp-content/plugins/wp-whatsapp-chat/assets/frontend/js/qlwapp.min.js?ver=4.7.0' id='qlwapp-js'></script>
+<script type='text/javascript' src='https://giroskate.com/wp-content/themes/zamona/js/jquery.throttle-debounce.min.js?ver=1.1.3' id='jquery-throttle-debounce-js'></script>
+<script type='text/javascript' id='zamona-script-js-extra'>
+/* <![CDATA[ */
+var zamona_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","sticky_header":"0","responsive":"1","ajax_search":"1","show_cart_after_adding":"0","add_to_cart_effect":"","menu_hover_style":"default"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://giroskate.com/wp-content/themes/zamona/js/main.js?ver=1.1.3' id='zamona-script-js'></script>
+<script type='text/javascript' src='https://giroskate.com/wp-includes/js/underscore.min.js?ver=1.8.3' id='underscore-js'></script>
+<script type='text/javascript' id='wp-util-js-extra'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://giroskate.com/wp-includes/js/wp-util.min.js?ver=5.5.9' id='wp-util-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-variation-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_no_matching_variations_text":"Lo sentimos, no hay productos que igualen tu selecci\u00f3n. Por favor escoge una combinaci\u00f3n diferente.","i18n_make_a_selection_text":"Elige las opciones del producto antes de a\u00f1adir este producto a tu carrito.","i18n_unavailable_text":"Lo sentimos, este producto no est\u00e1 disponible. Por favor elige otra combinaci\u00f3n."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://giroskate.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=4.3.6' id='wc-add-to-cart-variation-js'></script>
+<script type='text/javascript' src='https://giroskate.com/wp-content/plugins/woocommerce/assets/js/select2/select2.full.min.js?ver=4.0.3' id='select2-js'></script>
+<script type='text/javascript' src='https://giroskate.com/wp-includes/js/wp-embed.min.js?ver=5.5.9' id='wp-embed-js'></script>
+<script type='text/javascript' id='zxcvbn-async-js-extra'>
+/* <![CDATA[ */
+var _zxcvbnSettings = {"src":"https:\/\/giroskate.com\/wp-includes\/js\/zxcvbn.min.js"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://giroskate.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0' id='zxcvbn-async-js'></script>
+<script type='text/javascript' src='https://giroskate.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="https://giroskate.com/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://giroskate.com/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://giroskate.com/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://giroskate.com/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://giroskate.com/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://giroskate.com/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' src='https://giroskate.com/wp-includes/js/dist/i18n.min.js?ver=4ab02c8fd541b8cfb8952fe260d21f16' id='wp-i18n-js'></script>
+<script type='text/javascript' id='password-strength-meter-js-extra'>
+/* <![CDATA[ */
+var pwsL10n = {"unknown":"Fortaleza de la contrase\u00f1a desconocida","short":"Muy d\u00e9bil","bad":"D\u00e9bil","good":"Medio","strong":"Fuerte","mismatch":"No coinciden"};
+/* ]]> */
+</script>
+<script type='text/javascript' id='password-strength-meter-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2022-02-22 09:16:56+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"es"},"%1$s is deprecated since version %2$s! Use %3$s instead. Please consider writing more inclusive code.":["\u00a1%1$s est\u00e1 obsoleto desde la versi\u00f3n %2$s! Usa %3$s en su lugar. Por favor, plant\u00e9ate escribir un c\u00f3digo m\u00e1s inclusivo."]}},"comment":{"reference":"wp-admin\/js\/password-strength-meter.js"}} );
+</script>
+<script type='text/javascript' src='https://giroskate.com/wp-admin/js/password-strength-meter.min.js?ver=5.5.9' id='password-strength-meter-js'></script>
+<script type='text/javascript' id='wc-password-strength-meter-js-extra'>
+/* <![CDATA[ */
+var wc_password_strength_meter_params = {"min_password_strength":"3","stop_checkout":"","i18n_password_error":"Por favor, introduce una contrase\u00f1a m\u00e1s fuerte.","i18n_password_hint":"Sugerencia: La contrase\u00f1a debe ser de al menos doce caracteres. Para hacerla m\u00e1s fuerte usa may\u00fasculas y min\u00fasculas, n\u00fameros y s\u00edmbolos como ! \" ? $ % ^ y )."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://giroskate.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=4.3.6' id='wc-password-strength-meter-js'></script>
+<script type='text/javascript' src='https://giroskate.com/wp-content/themes/zamona/js/jquery.cookie.min.js?ver=1.1.3' id='cookie-js'></script>
+<script type='text/javascript' src='https://giroskate.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.1' id='wpb_composer_front_js-js'></script>
+<script type='text/javascript' src='https://giroskate.com/wp-content/plugins/js_composer/assets/lib/vc_waypoints/vc-waypoints.min.js?ver=6.1' id='vc_waypoints-js'></script>
+		<div id="ts-quickshop-modal" class="ts-popup-modal">
+			<div class="overlay"></div>
+			<div class="quickshop-container popup-container">
+				<span class="close">Close</span>
+				<div class="quickshop-content"></div>
+			</div>
+		</div>
+		</body>
+</html>
